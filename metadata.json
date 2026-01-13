@@ -1,0 +1,5 @@
+{
+  "name": "QuantOptix Pro Dashboard",
+  "description": "A high-performance options trading dashboard featuring real-time Greeks, IV surface visualization, and portfolio risk analytics for professional traders.",
+  "requestFramePermissions": []
+}
